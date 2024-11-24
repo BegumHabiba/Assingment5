@@ -19,7 +19,7 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="150dp"
         android:text="Welcome to CountryVision"
-        android:textSize="32sp"
+        android:textSize="31sp"
         android:textColor="#333333"
         android:textStyle="bold|italic"
         android:gravity="center"/>
